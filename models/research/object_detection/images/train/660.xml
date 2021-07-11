@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Grenade</folder>
+	<filename>660.jpg</filename>
+	<path>D:\BT\DACNTT2\archive\Weapons\train\Grenade\660.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>271</width>
+		<height>186</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Grenade</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>12</ymin>
+			<xmax>197</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>
